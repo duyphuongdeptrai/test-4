@@ -1,3 +1,3 @@
 <?php 
 
-    require_once("BT.php") ;
+    require_once("index.php") ;
